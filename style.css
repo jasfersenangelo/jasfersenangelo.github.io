@@ -1,0 +1,146 @@
+body{
+	background-color: #000000;
+	overflow: hidden;
+}
+
+a{
+	font-family: 'Bungee', cursive;
+	text-decoration: none;
+	color: #000000;
+	font-size: 20px;
+	margin-left: 50px;
+}
+
+#navbar{
+	width:100%;
+	margin:auto;
+}
+
+#navbar a{
+	font-family: 'Bungee', cursive;
+	text-decoration: none;
+	color: #079459;
+	font-size: 20px;
+	margin-left: 50px;
+}
+
+#header{
+	padding: 0 10px;
+}
+
+#nav-bar ul{
+	padding-bottom: 70%;
+}
+
+p{
+	font-family: 'Dancing Script', cursive;
+	text-decoration: none;
+	color: #079459;
+	font-size: 50px;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+	border:2px;
+	padding-left: 100px;
+}
+
+.text{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+	border:2px;
+	height: 400px;
+	padding-top: 100px;
+}
+
+#notmain{
+	background: linear-gradient(-10deg, #024426, #036739, #05894c, #06ac5f, #07ce72, #08f085, #26f696, #49f8a7, #6bf97b, #8dfac8);
+	float:center;
+	width:90%;
+	padding:0 30px;
+	box-sizing: border-box;
+	/*border:solid 1px;*/
+}
+
+#notmain li{
+	padding-bottom:20px;
+}
+
+#not-main a{
+	color: #000000;
+}
+
+li{
+	font-family: 'Bungee', cursive;
+	text-decoration: none;
+	color: #000000;
+	font-size: 15px;
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+	text-decoration: none;
+	color: #079459;
+	font-size: 50px;
+}
+
+h3{
+	font-family: 'Lobster', cursive;
+	text-decoration: none;
+	color: #079459;
+	font-size: 35px;
+	bottom: 400px;
+}
+
+.img{
+	position: fixed;
+	background-size: contain;
+	bottom: 0;
+	left: 0;
+	height: 30%;
+	width: 100%;
+	z-index: -1;
+}
+
+#main-footer{
+	color: #000000;
+	text-align: center;
+	padding:10px;
+	margin:10px;
+	font-size:20px;
+	margin-top:50px;
+}
+
+#main-footer p{
+	font-family: 'Poiret One', cursive;
+	color: #fcfffe;
+	font-size: 20px;
+	padding-top: 75px;
+	text-align: center;
+}
+
+.jas{
+	align-items: center;
+	width: 250px;
+	clip-path: circle();
+	margin-top: 50px;
+	margin-left: 43%;
+}
+
+.content{
+	font-family: 'Neuton', serif;
+	font-size: 20px;
+	text-align: center;
+	padding-left: 50px;
+}
+
+.content h1{
+	font-family: 'Neuton', serif;
+	font-size: 20px;
+	text-align: center;
+	padding-left: 50px;
+}
+
